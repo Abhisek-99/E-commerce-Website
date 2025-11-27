@@ -8,7 +8,6 @@ import Profile from './pages/Profile';
 import CollectionPage from './pages/CollectionPage';
 import ProductDetails from './components/Products/ProductDetails';
 import Checkout from './components/Cart/Checkout';
-// import OrderConfirmationPage from './pages/OrderConfirmationPage';
 import OrderConfirmationPage from './pages/OrderConfirmationPage';
 import OrderDetailsPage from './pages/OrderDetailsPage';
 import MyOrdersPage from './pages/MyOrdersPage';
